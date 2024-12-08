@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReyRiz
 - 👀 I’m interested in Programming and UI/UX Design
-- 🌱 I’m currently learning Python Programming Language
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me just search me on Youtube!
 
