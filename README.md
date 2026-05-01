@@ -1,4 +1,3 @@
-# Fariz (ReyRiz)
 
 Building intelligent systems with AI, automation, and full-stack development.
 
