@@ -86,8 +86,7 @@ Building intelligent systems with AI, automation, and modern web technologies.
 # 📈 GitHub Stats
 
 <div align="center">
-
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ReyRiz?cardType=level-a
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ReyRiz?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 ---
