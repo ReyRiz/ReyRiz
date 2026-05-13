@@ -87,10 +87,7 @@ Building intelligent systems with AI, automation, and modern web technologies.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReyRiz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReyRiz&layout=compact&theme=tokyonight&hide_border=true)
-
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ReyRiz?cardType=level-a
 </div>
 
 ---
