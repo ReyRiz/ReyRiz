@@ -8,7 +8,6 @@ Building intelligent systems with AI, automation, and modern web technologies.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ReyRiz&color=blueviolet&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ReyRiz?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/ReyRiz?style=for-the-badge)
 
