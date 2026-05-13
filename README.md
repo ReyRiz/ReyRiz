@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Fariz Idham Ramdhani
+# 👋 Hi, I'm Rey Rizky
 
 ### 🚀 Information Systems Student | AI & Full-Stack Developer
 
@@ -80,54 +80,6 @@ Building intelligent systems with AI, automation, and modern web technologies.
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-## 🗑️ Smart Trash System
-AI-powered waste classification system using computer vision and automation mechanism.
-
-### Features:
-- Waste detection using AI
-- Automatic trash sorting
-- Smart classification workflow
-- Real-time object recognition
-
----
-
-## 📦 BRRADS Inventory Management System
-Secure inventory management platform with approval workflow and email verification.
-
-### Features:
-- Approval request system
-- OTP verification
-- Activity logging
-- Real-time stock management
-- Email-based approval workflow
-
----
-
-## 📊 Stock Analysis Web
-Web-based stock analysis and decision support platform.
-
-### Features:
-- Trend analysis
-- Data visualization
-- Decision support system
-- Real-time market monitoring
-
----
-
-## 🤖 Automation & OCR Systems
-
-### Projects:
-- Telegram Workflow Bot
-- Invoice OCR System
-- Video OCR Timestamp Detection
-- Auto Recording & Archiving Tools
-
-Focused on building workflow automation and intelligent processing systems.
 
 ---
 
