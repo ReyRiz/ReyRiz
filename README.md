@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Rey Rizky
+# 👋 Hi, I'm Fariz Idham (ReyRiz) Ramdhani
 
 ### 🚀 Information Systems Student | AI & Full-Stack Developer
 
